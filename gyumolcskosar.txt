@@ -1,0 +1,4 @@
+alma,körte,szilva
+banán,eper,szőlő
+narancs,mangó,ananasz
+málna,barack,szeder
